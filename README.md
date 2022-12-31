@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyarikson
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, React..
+- 👀 I’m interested in building applications.
+- 🌱 I’m currently learning JavaScript, ES6, React.js..
 - 💞️ I’m looking to collaborate on Front-end, React.js, Python and JavaScript project..
 - 📫 How to reach me - priyankaraju92@gmail.com
 
